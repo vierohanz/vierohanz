@@ -15,7 +15,6 @@
 ---
 
 ### 🧠 About Me
-```ts
 const raisHannan = {
   status: "Student at Politeknik Negeri Semarang",
   focus: ["Software Engineering", "Backend Development", "AI/ML"],
