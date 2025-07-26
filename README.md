@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rais Hannan Rizanto 👋</h1>
 
-<!--
-**vierohanz/vierohanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&width=435&lines=Back-End+Developer;Software+Engineer;Tech+Enthusiast;AI+and+Web+Lover" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Node.js-blue?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-black?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+```ts
+const raisHannan = {
+  status: "Student at Politeknik Negeri Semarang",
+  focus: ["Software Engineering", "Backend Development", "AI/ML"],
+  tools: ["Laravel", "Tailwind", "Flutter", "Node.js", "PostgreSQL"],
+  goal: "Work as Software Engineer at BUMN (e.g. Telkom Indonesia)",
+  hobbies: ["💻 Coding", "🎮 Brawl Stars", "📈 Exploring Tech"],
+};
