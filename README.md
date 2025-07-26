@@ -2,7 +2,7 @@
 <!-- PORTFOLIO LINK (not too top, but standout) -->
 <p align="center">
   <a href="https://raishannan.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🌐 My Portfolio -00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/ My Portfolio -00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" />
   </a>
 </p>
 <!-- HEADING -->
