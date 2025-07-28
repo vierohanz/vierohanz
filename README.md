@@ -29,6 +29,6 @@
 <!-- GITHUB STATS - SIDE BY SIDE -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vierohanz&layout=compact&theme=tokyonight&border_radius=12&hide_border=false&hide_title=true&langs_count=6" alt="Top Languages" height="165" style="margin-right: 20px;" />
-  <img src="https://streak-stats.demolab.com/?user=vierohanz&theme=tokyonight&hide_border=false&border_radius=17" alt="GitHub Streak" height="135" />
+<!--   <img src="https://streak-stats.demolab.com/?user=vierohanz&theme=tokyonight&hide_border=false&border_radius=17" alt="GitHub Streak" height="135" /> -->
 </p>
 
