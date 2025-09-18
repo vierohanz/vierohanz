@@ -13,8 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&width=450&lines=Software+Engineer;Fullstack+Web+%26+Mobile+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
 <!-- TECH STACK -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00f7ff" />
