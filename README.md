@@ -49,7 +49,7 @@
 
 **Backend & Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Gin_(Go)-1a1a2e?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Fiber(Go)-1a1a2e?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/gRPC-1a1a2e?style=for-the-badge&logo=google&logoColor=b388ff" />
