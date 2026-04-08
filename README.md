@@ -83,27 +83,10 @@ fun_fact: I turn coffee into microservices ☕ → 🔧
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
-
-### Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vierohanz&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=58a6ff&area=true&area_color=00f7ff" />
 </p>
 
-### Currently
-
-- Building backend systems with **Go**
-- Integrating **LLMs** into production apps
-- Exploring **AI Agents** & **RAG architectures**
-- Ask me about **Go, Node.js, LLMs, or System Design**
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vierohanz&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f7ff&height=120&section=footer" />
 </p>
