@@ -1,6 +1,6 @@
-
-
-https://github.com/user-attachments/assets/a597564d-4a8f-4e8a-8415-f31687a34e83
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bade1a3-5896-4535-8f4a-0782d3ad9af3" width="100%" />
+</p>
 
 <!-- PORTFOLIO LINK -->
 <p align="center">
@@ -70,4 +70,14 @@ https://github.com/user-attachments/assets/a597564d-4a8f-4e8a-8415-f31687a34e83
   <img src="https://img.shields.io/badge/RustFS-1a1a2e?style=for-the-badge&logo=rust&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vierohanz&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=b388ff&line=6c3ce0&point=ffffff&area=true&area_color=6c3ce0" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vierohanz&color=b388ff&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
