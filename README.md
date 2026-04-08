@@ -7,7 +7,7 @@
   <a href="https://raishannan.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐 My Portfolio-b388ff?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
   </a>
-  <a href="https://linkedin.com/in/raishannan" target="_blank">
+  <a href="https://www.linkedin.com/in/rais-hannan-rizanto-856095279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-b388ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
