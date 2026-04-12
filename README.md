@@ -30,6 +30,7 @@
 
 **Languages & Runtimes**
 <p>
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
