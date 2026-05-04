@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Prompt_Engineering-1a1a2e?style=for-the-badge&logo=probot&logoColor=b388ff" />
   <img src="https://img.shields.io/badge/Chain_of_Thought-1a1a2e?style=for-the-badge&logo=brain&logoColor=b388ff" />
   <img src="https://img.shields.io/badge/Prompt_Chaining-1a1a2e?style=for-the-badge&logo=link&logoColor=b388ff" />
+  <img src="https://img.shields.io/badge/Tree_of_Thought-1a1a2e?style=for-the-badge&logo=link&logoColor=b388ff" />
 </p>
 
 **Backend & Frameworks**
